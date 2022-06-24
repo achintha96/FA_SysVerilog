@@ -15,7 +15,11 @@ module full_adder_tb();
     logic sum;
     logic c_out;
     
-    full_adder fa(.*); //wild card instantiation 
+    full_adder fa(.*); //wild card instantiation - module instantiation
+    
+    //hard instantiation
+    //full_adder fa(.clk(clk), .a(a), .b(b), .c_in(c_in), .sum(sum), .c_out(c_out));
+    
     initial begin
         //simulation starts
         @(posedge clk);
