@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/verilog/FA_SysVerilog/src/full_adder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module full_adder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/verilog/FA_SysVerilog/src/full_adder_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module full_adder_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog/FA_SysVerilog/project/FA/FA.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
